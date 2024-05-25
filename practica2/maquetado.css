@@ -1,0 +1,20 @@
+header {
+    background-color: rgb(49, 125, 197);
+    color: rgb(28, 9, 37);
+    padding: 50px;
+}
+
+nav{
+    background-color: rgb(43, 226, 150);
+    color: rgb(16, 22, 20);
+}
+
+nav ul {
+    list-style:none;
+}
+
+nav ul li {
+    display: inline-block;
+    padding: 25px;
+    border: 1px dotted white;
+}
